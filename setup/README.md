@@ -6,8 +6,7 @@ Please do this setup **before Session 1** and run `check_setup.ipynb`. It takes 
 If something fails, don't worry:
 
 - For **Session 1**, you only need `pip install gymnasium numpy matplotlib jupyterlab` (no PyTorch, no Box2D).
-- Bring the error message to Session 2 (in person), we fix it together.
-- Last resort: every notebook also runs on Google Colab (<https://colab.research.google.com>, *File → Upload notebook*).
+- Bring the error message to Session 2, we fix it together.
 
 ## Why a virtual environment?
 

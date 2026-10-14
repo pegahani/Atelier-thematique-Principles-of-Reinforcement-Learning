@@ -18,12 +18,12 @@ Before each session, run `git pull` in the course folder to get the new material
 
 ## Sessions
 
-| Session | Format | Topic | Material |
+| Session | Duration | Topic | Material |
 |---|---|---|---|
-| 1 | 2h, online | MDPs, Bellman equations, value iteration on FrozenLake | [`session-1/`](session-1/) |
-| 2 | 4h, in person | Tabular RL: Monte Carlo, TD, SARSA, Q-learning | coming soon |
-| 3 | 4h, in person | Deep RL: DQN from scratch | coming soon |
-| 4 | 4h, in person | Policy gradient, PPO, RL for LLMs | coming soon |
+| 1 | 2h | MDPs, Bellman equations, value iteration on FrozenLake | [`session-1/`](session-1/) |
+| 2 | 4h | Tabular RL: Monte Carlo, TD, SARSA, Q-learning | coming soon |
+| 3 | 4h | Deep RL: DQN from scratch | coming soon |
+| 4 | 4h | Policy gradient, PPO, RL for LLMs | coming soon |
 
 Sessions 3 and 4 end with a **LunarLander leaderboard**.
 
