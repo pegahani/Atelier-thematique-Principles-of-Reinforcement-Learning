@@ -26,6 +26,7 @@ Before each session, run `git pull` in the course folder to get the new material
 | 4 | 4h | Policy gradient, PPO, RL for LLMs | coming soon |
 
 Sessions 3 and 4 end with a **LunarLander leaderboard**.
+To see where we are going, try the demo agent of Session 1: [`session-1/demo/`](session-1/demo/).
 
 ## Notebooks
 
