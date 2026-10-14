@@ -1,0 +1,11 @@
+# Python 3.10 to 3.13 (3.12 recommended). Python 3.14 is NOT supported yet (no box2d wheels).
+# On Linux, install the CPU build of PyTorch first (see README.md), otherwise pip downloads ~3 GB of CUDA libraries.
+torch>=2.4
+gymnasium[box2d]>=1.1,<2
+stable-baselines3[extra]>=2.5
+numpy
+matplotlib
+pandas
+tqdm
+jupyterlab
+ipykernel
