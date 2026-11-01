@@ -2,7 +2,7 @@
 
 Université Lumière Lyon 2, 2026 · Pegah Alizadeh (pegah.alizadeh@univ-lyon2.fr)
 
-In this atelier you learn reinforcement learning by building agents: short theory blocks, then you code, in pairs.
+In this atelier you learn reinforcement learning by building agents: short theory blocks, then you code.
 There is no exam.
 
 ## Before Session 1
@@ -21,7 +21,7 @@ Before each session, run `git pull` in the course folder to get the new material
 | Session | Duration | Topic | Material |
 |---|---|---|---|
 | 1 | 2h | MDPs, Bellman equations, value iteration on FrozenLake | [`session-1/`](session-1/) |
-| 2 | 4h | Tabular RL: Monte Carlo, TD, SARSA, Q-learning | coming soon |
+| 2 | 3h | Tabular RL: Monte Carlo, TD, SARSA, Q-learning | [`session-2/`](session-2/) |
 | 3 | 4h | Deep RL: DQN from scratch | coming soon |
 | 4 | 4h | Policy gradient, PPO, RL for LLMs | coming soon |
 
