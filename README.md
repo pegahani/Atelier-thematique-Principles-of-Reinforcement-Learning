@@ -22,7 +22,7 @@ Before each session, run `git pull` in the course folder to get the new material
 |---|---|---|---|
 | 1 | 2h | MDPs, Bellman equations, value iteration on FrozenLake | [`session-1/`](session-1/) |
 | 2 | 3h | Tabular RL: Monte Carlo, TD, SARSA, Q-learning | [`session-2/`](session-2/) |
-| 3 | 4h | Deep RL: DQN from scratch | coming soon |
+| 3 | 3h | Function approximation: from Q-learning to DQN | [`session-3/`](session-3/) |
 | 4 | 4h | Policy gradient, PPO, RL for LLMs | coming soon |
 
 Sessions 3 and 4 end with a **LunarLander leaderboard**.
