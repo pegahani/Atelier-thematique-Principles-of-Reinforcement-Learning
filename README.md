@@ -32,9 +32,10 @@ To see where we are going, try the demo agent of Session 1: [`session-1/demo/`](
 
 - **In class:** [`session-3/s3_mountain_car.ipynb`](session-3/s3_mountain_car.ipynb), the only notebook of the session.
   🟢 Core: Parts 1, 2 and 5, then the comparison of Part 4 together. 🟠 Stretch: Part 3.
-- **Homework, DQN from scratch:** `homework_pytorch_debug.ipynb` in the folder
-  [`week04_approx_rl`](https://github.com/yandexdataschool/Practical_RL/tree/master/week04_approx_rl) of Practical RL.
-  Add experience replay and a target network, and solve CartPole.
+- **At home, before Session 4: DQN from scratch.** Add experience replay and a target network to Part 5, and solve CartPole.
+  The notebook is `homework_pytorch_debug.ipynb` in the folder
+  [`week04_approx_rl`](https://github.com/yandexdataschool/Practical_RL/tree/master/week04_approx_rl) of Practical RL
+  (it is not in this repository: open it in Colab, or clone the Practical RL repository, since it needs the helper files of that folder).
 - **Optional** (Sutton & Barto), at home or if you finish early:
   [`session-3/baird_student.py`](session-3/baird_student.py) (Example 11.1, the deadly triad) and
   [`session-3/mountain_car_exo.py`](session-3/mountain_car_exo.py) (Example 10.1, tile coding).
